@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjp5yWbzu4+yCCsmYzYRD+y8INEKBtph5F0qZj6urGO6sEQ//qrAtbAtljqnpB7LuBSooFWjoB1r2spP81SKTw==",
+  "success": true,
+  "projectFilePath": "/Users/dominikaberg/Desktop/.NET-API/SongsAPI/SongsAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/dominikaberg/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/dominikaberg/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dominikaberg/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/dominikaberg/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/dominikaberg/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/dominikaberg/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
